@@ -1,8 +1,6 @@
-#this file is meant to be a testing area to play with the options avaliable to python tkinter
 #! /usr/bin/python3
 
 import tkinter as tk
-
 
 def cute():
     name = box.get()
