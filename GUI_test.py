@@ -1,5 +1,7 @@
 #! /usr/bin/python3
 
+#This is a sandbox to test GUI functionality
+
 import tkinter as tk
 
 def cute():
